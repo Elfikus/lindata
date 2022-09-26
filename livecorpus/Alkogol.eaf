@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-25T19:55:44+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T23:06:20+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -84,7 +84,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
                 TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>итак / э / физиология опьянения //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>итак / эээ / физиология опьянения //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -147,85 +147,87 @@
         PARTICIPANT="@vae1948m" TIER_ID="transl@vae1948m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>so now / the next slide / I wanted to tell you about / physiology of intoxication //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>So now - the next slide - I wanted to tell you about  physiology of intoxication.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a2">
-                <ANNOTATION_VALUE>I also wanted to test a little / aaa //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>I also wanted to test a little... Um...</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a3">
-                <ANNOTATION_VALUE>so I wanted to know guys it it is just very important for me I / speak to different audiences //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>So I wanted to know, guys - it is just very important for me -I speak to different audiences,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a4">
-                <ANNOTATION_VALUE>So does any of you know / eee / what happens in the human brain / when a person drink alcohol /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>so does any of you know um... what happens in the human brain when a person drink alcohol?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a5">
-                <ANNOTATION_VALUE>he says there was a noise in the head</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>He says there was a noise in the head.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a6">
-                <ANNOTATION_VALUE>so r... / if it is possible raise your hands who knows / what / happens if a person drink alcohol //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>So r... if it is possible, raise your hands who knows what happens if a person drink alcohol.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a7">
-                <ANNOTATION_VALUE>so / e / physiology of intoxication //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>So um... physiology of intoxication.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a8">
-                <ANNOTATION_VALUE>in the sixties / three scientists in the United States / discovered a phenomenon they call... called the effect of grape bunch /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>In the sixties three scientists in the United States discovered a phenomenon they call... called the effect of grape bunch.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>they observed what happens in the hyman brain / aaa / through the pupil</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>They observed what happens in the human brain um... through the pupil.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a10">
-                <ANNOTATION_VALUE>a pupil is a part of a brain //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A pupil is a part of a brain.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a11">
-                <ANNOTATION_VALUE>s... a special microscope made it possible to see through the walls of the vessel what was happening there //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A special microscope made it possible to see through the walls of the vessel what was happening there.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a12">
-                <ANNOTATION_VALUE>an erythrocyte is a red blood cell //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>An erythrocyte is a red blood cell</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a13">
-                <ANNOTATION_VALUE>that has a so-called lipid layer adipose lubricant //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that has a so-called lipid layer adipose lubricant.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a14">
-                <ANNOTATION_VALUE>when it flows along the walls of the vessels it / becomes electrified and / acquires a small negative charge</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>When it flows along the walls of the vessels, it becomes electrified and acquires a small negative charge,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a15">
-                <ANNOTATION_VALUE>therefore erythrocytes / in the normal human condition /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>therefore, erythrocytes in the normal human condition...</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a16">
-                <ANNOTATION_VALUE>they repel each other / and all flow one by one //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>They repel each other and all flow one by one.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
+    <TIER ANNOTATOR="Elfikus" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@vae1948m" TIER_ID="spokencorpora@vae1948m"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
         LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
