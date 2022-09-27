@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-27T12:50:36+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-27T12:55:11+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -301,7 +301,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
                 TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>∙∙ -сле̲дующий слайд</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>(∙∙ -сле̲дующий слайд)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -319,19 +319,19 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
                 TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
-                <ANNOTATION_VALUE>Вот хотел \узна̲ть @ребята @</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Вот хотел \узна̲ть ребята @</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
                 TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
-                <ANNOTATION_VALUE>для меня это просто очень /ва̲жно</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>(для меня это просто очень /ва̲жно:</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
                 TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE>я ∙∙ в разных аудиториях /выступа̲ю,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я ∙∙ в разных аудиториях /выступа̲ю,)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -481,7 +481,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
                 TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts96">
-                <ANNOTATION_VALUE>и /текут все поштучно.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>и /теку̲т все поштучно.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
