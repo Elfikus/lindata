@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-10-03T19:05:46+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-10-04T01:39:11+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -1997,8 +1997,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a284" ANNOTATION_REF="a81" CVE_REF="cveid_ec21c04a-feae-48cf-8387-54bea216078c">
-                <ANNOTATION_VALUE>CONJ</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a284" ANNOTATION_REF="a81" CVE_REF="cveid_e981f31b-d38d-45ce-91fa-0003327d7136">
+                <ANNOTATION_VALUE>ADV</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
