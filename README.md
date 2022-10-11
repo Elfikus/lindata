@@ -1,4 +1,4 @@
-# lindata
+# lingdata
 Hi! 
 
 Hi!
